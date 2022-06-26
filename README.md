@@ -94,4 +94,4 @@ In the above dashboard select coffee in the product type filter. We could now ob
 ![Coffee Dashboard](https://user-images.githubusercontent.com/87359806/169093727-86d8f2a8-f514-45b9-a9ff-26a1dba9f459.PNG)
 
 
-**Tableau link :** https://public.tableau.com/views/Coffeesalesanalysis_16528023516590/Dashboard1?:language=en-US&:display_count=n&:origin=viz_share_link 
+**Tableau dashboard link :** https://public.tableau.com/views/Coffeesalesanalysis_16528023516590/Dashboard1?:language=en-US&:display_count=n&:origin=viz_share_link 
