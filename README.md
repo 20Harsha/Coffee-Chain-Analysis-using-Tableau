@@ -2,7 +2,7 @@
 
 * The Coffee Chain dataset consist of 22 columns and 4248 rows. Some of the columns are Market, Market Size, Type , Product type, Product, Profit, Sales, Cogs(Cost of goods sold) & state.
 * Before analyzing the data the quality of the data has been checked in Microsoft Excel.
-* Using Business Intelligence tool Tableau the Coffee Chain Analysis dashboard has been created. The dashboard consist of filters and it is an interactive dashboard where user can interact with the dashboard to find answers to the business questions.
+* Used Business Intelligence tool Tableau the Coffee Chain Analysis dashboard has been created. The dashboard consist of filters and it is an interactive dashboard where user can interact with the dashboard to find answers to the business questions.
 * **Purpose of Coffee Chain Analysis Project** is to find the weak areas where the products are causing loss as well as find answers to the below questions.
 
 ## **Finding answers to the following questions**: 
